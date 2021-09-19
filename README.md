@@ -1,6 +1,6 @@
 # HoaxPhishTool v1.0
 
-## Author: github.com/H04XX helped by thelinuxchoice's work (https://github.com/thelinuxchoice (?))
+ Author: github.com/H04XX helped by thelinuxchoice's work (https://github.com/thelinuxchoice (?))
 
 ### Don't copy this code without give me the credits, nerd! 
 
