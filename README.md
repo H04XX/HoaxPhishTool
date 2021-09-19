@@ -15,7 +15,7 @@ Usage of HoaxPhishTool for attacking targets without prior mutual consent is ill
 ```
 NGROK NEEDED
 
-git clone https://github.com/hoax/HoaxPhishTool
+git clone https://github.com/H04XX/HoaxPhishTool
 cd hoaxphishtool
 cd sites
 cp $the_site_you_want /var/www/html
